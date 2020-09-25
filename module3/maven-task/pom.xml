@@ -12,6 +12,13 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 
 <artifactId>ci-training</artifactId>
 
+<repositories>
+<repository>
+<id>proxy</id>
+<url>http://localhost/nexus/content/repositories/proxy/</url>
+</repository>
+</repositories>
+
 <packaging>jar</packaging>
 
 <version>1.0-SNAPSHOT</version>
