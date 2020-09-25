@@ -33,7 +33,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 
 <timestamp>${maven.build.timestamp}</timestamp>
 
-<maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
+<maven.build.timestamp.format>yyyy-MM-dd-HH:mm</maven.build.timestamp.format>
 
 </properties>
 
