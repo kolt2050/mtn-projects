@@ -15,7 +15,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 <repositories>
 <repository>
 <id>proxy</id>
-<url>http://35.156.76.91:8081/content/repositories/proxy/</url>
+<url>http://localhost:8081/content/repositories/proxy/</url>
 </repository>
 </repositories>
 
