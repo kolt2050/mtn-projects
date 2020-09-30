@@ -25,13 +25,11 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 
 <name>maven-task</name>
 
-  <properties>
-    <maven.compiler.source>1.6</maven.compiler.source>
-    <maven.compiler.target>1.6</maven.compiler.target>
-  </properties>
 
 <properties>
-
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 <timestamp>${maven.build.timestamp}</timestamp>
